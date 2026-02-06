@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Hero_Default","characterIndex":0,"characterName":"Hero_Default","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Hero_Default","traits":[],"initialLevel":1,"maxLevel":99,"name":"Student","nickname":"Początkujący","note":"","profile":"Uczeń, który wyruszył w podróż, aby opanować język angielski\ni zdobyć magiczną księgę słówek."},
+{"id":2,"battlerName":"antagonista","characterIndex":0,"characterName":"antagonista","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"antagonista","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
